@@ -1,15 +1,20 @@
 .intro{
+
     font-family: 'Roboto Mono', monospace;
     font-size:50px;
     color:darkgrey;
     padding-left:100px;
     padding-top:150px;
+    animation-delay:0ms;
+    animation-duration:1.5s;
 }
 
 .nome{
     font-family: 'Roboto Mono', monospace;
     font-size:50px;
     color:coral;
+    animation-delay:0ms;
+    animation-duration: 1.5s;
 }
 
 html{
@@ -21,6 +26,8 @@ html{
     color:lightslategray;
     font-size:30px;
     padding-left:100px;
+    animation-delay:1s;
+    animation-duration: 1.5s;
 
 }
 
@@ -33,5 +40,15 @@ html{
     padding-left:100px;
     padding-right:700px;
     text-justify: auto;
+    animation-delay: 2.5s;
+    animation-duration:1.5s;
 
 }
+
+.suppli{
+    padding-top:0px;
+    padding-left:600px;
+    animation-delay: 3.5s;
+    animation-duration: 1.5s;
+}
+
