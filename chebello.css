@@ -1,0 +1,37 @@
+.intro{
+    font-family: 'Roboto Mono', monospace;
+    font-size:50px;
+    color:darkgrey;
+    padding-left:100px;
+    padding-top:150px;
+}
+
+.nome{
+    font-family: 'Roboto Mono', monospace;
+    font-size:50px;
+    color:coral;
+}
+
+html{
+    background-color:darkred
+}
+
+.sottointro{
+    font-family: 'Roboto Mono', monospace;
+    color:lightslategray;
+    font-size:30px;
+    padding-left:100px;
+
+}
+
+.descrizione{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 250;
+    color:lightslategray;
+    font-size:20px;
+    padding-top:10px;
+    padding-left:100px;
+    padding-right:700px;
+    text-justify: auto;
+
+}
